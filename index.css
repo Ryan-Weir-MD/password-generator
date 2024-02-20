@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    background: #273549
+}
+
+h1 {
+    color: white;
+    margin-bottom: 0px;
+}
+
+#highlight {
+    color: #10B981
+}
+
+p {
+    color: #6B7260;
+    margin: 5px 0px 30px 0px;
+}
+
+button {
+    border: none;
+    border-radius: 3px;
+    width: 180px;
+    height: 30px;
+}
+
+#generate-button {
+    background: #10B981;
+    color: white;
+    
+}
+
+.password-field {
+    background: #2F3E53;
+    color: #10B981;
+    margin: 5px;
+}
+
+#main-content {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0px 0px 20px;
+}
+
+#password-fields {
+    display: flex;
+    margin: 10px;
+}
+
+input {
+    display: none;
+}
